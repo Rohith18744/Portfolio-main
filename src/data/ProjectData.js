@@ -130,7 +130,7 @@ export const ProjectList = [
       "Developed a responsive cryptocurrency price tracking platform that integrates real-time market data via API, allowing users to monitor current cryptocurrency costs and make informed trading decisions..",
     tech_stack: ["HTML", "CSS","Javascript","API"],
     github_url: "https://github.com/Rohith18744/CryptoCurrency-Website-using-API",
-    demo_url: "https://multiple-disease-prediction-yhwz7eblhr7ehfjohox5yv.streamlit.app/",
+    demo_url: "",
   },
   {
     img: "/download.png",
@@ -145,7 +145,7 @@ export const ProjectList = [
       
     ],
     github_url: "https://github.com/Rohith18744/TodoListApp-using-React",
-    demo_url: "https://ipl2024.ccbp.tech/",
+    demo_url: "",
   },
   
   {
@@ -160,7 +160,7 @@ export const ProjectList = [
       "React JS"
     ],
     github_url: "https://github.com/Rohith18744/E-Commerce-website-by-React-Js",
-    demo_url: "https://huggingface.co/spaces/DHEERAJ9182/voiceclone",
+    demo_url: "",
   },
 
   {
@@ -188,7 +188,7 @@ export const ProjectList = [
       "A desktop application using Java Swing and GUI for managing employee weekend tours, enabling users to browse available destinations, book tours, and access tour details through an intuitive graphical interface.",
     tech_stack: ["Java"],
     github_url: "https://github.com/Rohith18744/Tourist-Planner",
-    demo_url: "https://qrgenerator2023.ccbp.tech/",
+    demo_url: "",
   },
   
 ];
