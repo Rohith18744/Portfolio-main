@@ -179,7 +179,7 @@ export const ProjectList = [
 
     ],
     github_url: "https://github.com/dheeraj0000/monkeypox-csv",
-    demo_url: "https://monkeypox-disease-prediction.onrender.com/",
+    demo_url: "https://monkeypox-csv-hu95h3l4v47ljgriicdepj.streamlit.app/",
   },
   {
     img: "tourist.png",
